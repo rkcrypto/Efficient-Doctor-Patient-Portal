@@ -1,0 +1,60 @@
+body{
+    margin: 100px;
+    text-align: center;
+    text-align: center;
+    }
+     
+    input[type=text],[type=password ],[type=number],[type=email]{
+    width: 20%;
+    margin: 8px 0;
+    padding: 7px 16px;
+    display: inline-block;
+    border:1px solid #ccc;
+    box-sizing: border-box;
+    }
+     
+    button{
+    background-color:#4CAF50;
+    width: 10%;
+    padding: 9px 5px;
+    margin:5px 0;
+    cursor:pointer;
+    border:none;
+    color:#ffffff;
+    margin-left: 80px;
+    }
+     
+    button:hover{
+    opacity:0.8;
+    }
+     
+    #fn,#ag,#mn,#user_add,#bg,#em,#pass{
+    font-family:'Lato', sans-serif;
+    color: gray;
+    }
+     
+    #fn{
+    margin-left:40px;
+    }
+    #ag{
+        margin-left:50px;
+    }
+    #mn{
+        margin-left:10px;
+        
+    }
+    #user_add{
+        margin-left:20px;
+    }
+    #bg{
+        margin-left:-50px;
+    }
+    #em{
+        margin-left:40px;
+        
+    }
+    #pass{
+        margin-left:15px;
+        
+    }
+
